@@ -604,12 +604,6 @@ function zonaInteractiva(x, y, w, h, texto) {
   if (mouseSobre(x, y, w, h)) {
     cursor(HAND);
     ayuda = texto;
-
-    noFill();
-    stroke(255, 230);
-    strokeWeight(2);
-    rect(x, y, w, h, 8);
-    noStroke();
   }
 }
 
