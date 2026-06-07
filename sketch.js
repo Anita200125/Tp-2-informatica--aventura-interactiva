@@ -145,7 +145,7 @@ function pantallaCreditos() {
   textSize(16);
   text("Alvaro Oxley", width / 2, 230);
   text("Ana Robledo", width / 2, 255);
-  text("Camila", width / 2, 280);
+  text("Camila Mihalyczo", width / 2, 280);
 
   textSize(14);
   text("UNA - Artes Multimediales", width / 2, 320);
